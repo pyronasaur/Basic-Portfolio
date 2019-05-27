@@ -1,0 +1,23 @@
+.teal-back{
+    background-color: #4aaaa5
+}
+
+.teal-text{
+    color: #4aaaa5;
+}
+.reg-text{
+    color: #777777;
+}
+
+#main-header{
+    border-color: #cccccc;
+}
+
+#footer{
+    background-color: #666666;
+}
+
+#main-content{
+    background-color:#dddddd;
+    border-color: #dddddd;
+}
