@@ -8,6 +8,7 @@ body{
 p{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     text-indent: 50px;
+    color: #777777;
 }
 /* 
 * Remove hyperlink underline
