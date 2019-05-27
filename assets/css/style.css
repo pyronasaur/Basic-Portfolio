@@ -1,5 +1,5 @@
 body{
-    background-image: url(/assets/images/memphis-mini.png);
+    background-image: url("../images/memphis-mini.png");
 }
 /* 
 * Set base font family for paragraph
@@ -87,7 +87,7 @@ a{
 #main-content{
     background-color:#dddddd;
     border-color: #dddddd;
-    background-image: url(/assets/images/memphis-mini.png);
+    background-image: url("../images/memphis-mini.png");
     height:930px;
 }
 
